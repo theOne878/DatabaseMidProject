@@ -1,0 +1,15 @@
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ManageRubrics.resources
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ManageAssessment.resources
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AddComponent.resources
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.RubricLevel.resources
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Lookup.resources
+D:\OOP Labs\Lab3\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.StudentResult.resources
